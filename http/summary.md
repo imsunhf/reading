@@ -1,5 +1,5 @@
 * [夜的第一章](/)
-* [夜的第二章](chapter1)
-* [夜的第三章](chapter3/chapter3)
+* [夜的第二章](chapter1.md)
+* [夜的第三章](chapter3/chapter3.md)
 * [夜的第四章]()
 * [夜的第五章]()
