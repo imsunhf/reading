@@ -1,3 +1,2 @@
 
-* [夜的第二章](chapter1.md)
-* [夜的第三章](chapter3/chapter3.md)
+* [第6章 面向对象的程序设计](chapter6.md)
