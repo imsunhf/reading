@@ -1,7 +1,7 @@
 ---
 hash: 
-  1: true
-  2: true
+  true
+  true
 ---
 
 
