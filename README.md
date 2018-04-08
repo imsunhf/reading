@@ -1,6 +1,7 @@
 ---
-title: sunhaifeng,
+title: sunhaifeng
 aaa: bbb
+ccc: ccc
 ---
 
 
