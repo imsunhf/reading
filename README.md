@@ -1,10 +1,8 @@
 ---
-title: sunhaifeng;aaa: bbb
+title: sunhaifeng,
+aaa: bbb
 ---
 
----
-
----
 
 title|aaa
 ---|---
