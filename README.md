@@ -1,9 +1,9 @@
 ---
-title: sunhaifeng
+title: sunhaifeng|aaa: bbb
 ---
 
 ---
-aaa: bbb
+
 ---
 
 title|aaa
