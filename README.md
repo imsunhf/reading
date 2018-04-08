@@ -1,7 +1,6 @@
 ---
-hash: 
-  true
-  true
+hash: 1
+hash: 2
 ---
 
 
