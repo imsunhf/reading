@@ -1,5 +1,7 @@
 ---
 title: sunhaifeng
+aaa: bbb
+bbb:ccc
 ---
 
 title|aaa
